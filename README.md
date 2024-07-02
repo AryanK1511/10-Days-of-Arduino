@@ -7,6 +7,7 @@ A collection of all the stuff that I learnt when I started to use Arduino and pl
 |Day|Date|Desc.|
 |---|---|---|
 |`Day 01`|`Jul 1, 2024`|Learnt about the basic tools that come along with the Arduino starter kit and also watched a video lecture on electrostatics|
+|`Day 02`|`Jul 2, 2024`|Learnt about some more basics regarding creating a circuit and also built the temperature sensor project|
 
 
 ## Author
