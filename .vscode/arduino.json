@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
-    "programmer": "parallel",
-    "port": "/dev/tty.Bluetooth-Incoming-Port",
-    "sketch": "01 - Blinking LEDs/code.ino"
+    "programmer": "avrisp",
+    "port": "/dev/tty.usbmodem101",
+    "sketch": "test.ino"
 }
