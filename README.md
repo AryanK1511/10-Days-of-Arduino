@@ -10,6 +10,9 @@ A collection of all the stuff that I learnt when I started to use Arduino and pl
 |`Day 02`|`Jul 2, 2024`|Learnt about some more basics regarding creating a circuit and also built the temperature sensor project|
 |`Day 03`|`Jul 3, 2024`|Built another project with photransistors and RGB LED|
 
+## Resources 
+- [Arduino Masterclass](https://www.youtube.com/watch?v=BLrHTHUjPuw)
+
 
 ## Author
 [Aryan Khurana](https://www.github.com/AryanK1511)
