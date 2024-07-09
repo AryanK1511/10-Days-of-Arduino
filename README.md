@@ -11,6 +11,7 @@ A collection of all the stuff that I learnt when I started to use Arduino and pl
 |`Day 03`|`Jul 3, 2024`|Built another project with photransistors and RGB LED|
 |`Day 04`|`Jul 7, 2024`|Started an Arduino course on youtube and also learnt how diodes work|
 |`Day 05`|`Jul 8, 2024`|Continued the Arduino course on youtube and learnt about using a potentiometer|
+|`Day 06`|`Jul 9, 2024`|Created the light theremin project and learn some more theory about phototransistors and piezos|
 
 ## Resources 
 - [Arduino Masterclass](https://www.youtube.com/watch?v=BLrHTHUjPuw)
