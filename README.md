@@ -13,13 +13,15 @@ A collection of all the stuff that I learnt when I started to use Arduino and pl
 |`Day 05`|`Jul 8, 2024`|Continued the Arduino course on youtube and learnt about using a potentiometer|
 |`Day 06`|`Jul 9, 2024`|Created the light theremin project and learn some more theory about phototransistors and piezos|
 |`Day 07`|`Jul 14, 2024`|Created my first servo motor project, another piezo project and also learnt how to work with GPIO pins on a raspberry PI|
+|`Day 08`|`Jul 18, 2024`|Created a digital hourglass using a tilt sensor|
 
-## Resources 
+## Resources
+
 - [Arduino Masterclass](https://www.youtube.com/watch?v=BLrHTHUjPuw)
 - [Arduino Course for Beginners](https://www.youtube.com/watch?v=zJ-LqeX_fLU&t=14362s)
 - [Arduino Official Documentation](https://docs.arduino.cc/?_gl=1*1rzxx66*_gcl_au*MTEzNDU2MjY2Ny4xNzIwMDEwNDk2*FPAU*MTEzNDU2MjY2Ny4xNzIwMDEwNDk2*_ga*MTM4NjYwNjA5NC4xNzIwMDEwNDk0*_ga_NEXN8H46L5*MTcyMDE4OTY0NS4yLjAuMTcyMDE4OTY0NS4wLjAuMTA0MDYxOTg2Ng..*_fplc*dldYY2xqZFh1akxiakdwMnJQdnFkTGNXWDNBc3Y2c3J2Wm9Gb01tMHdlckVteXJRQ1IwbVpuNGtGUyUyRmVtODRjdzYyOUkwWFdjMURaMTJ4ZHNIOEp2cUlJN0RzTzBnM2kyUFNEdXFnS3QwZE84Sno1NXppQkNsbUVaZENERkElM0QlM0Q.)
 - [Arduino Course for Everybody](https://www.youtube.com/watch?v=DPqiIzK97K0)
 
-
 ## Author
+
 [Aryan Khurana](https://www.github.com/AryanK1511)
