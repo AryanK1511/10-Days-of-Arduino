@@ -15,6 +15,7 @@ A collection of all the stuff that I learnt when I started to use Arduino and pl
 |`Day 07`|`Jul 14, 2024`|Created my first servo motor project, another piezo project and also learnt how to work with GPIO pins on a raspberry PI|
 |`Day 08`|`Jul 18, 2024`|Created a digital hourglass using a tilt sensor|
 |`Day 09`|`Jul 19, 2024`|Learn how to use a motor with an external battery and transistor|
+|`Day 10`|`Jul 20, 2024`||
 
 ## Resources
 
