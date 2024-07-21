@@ -1,21 +1,21 @@
-# 30 Days of Arduino
+# 10 Days of Arduino
 
-A collection of all the stuff that I learnt when I started to use Arduino and play around with it. This is a 30-day challenge where I learn something Arduino related for 30 days.
+This is a collection of everything I learned when I started using Arduino and exploring its capabilities. I embarked on a 10-day challenge to learn something Arduino-related each day. The main goal was to complete all the projects in the Arduino Projects Book that came with the Arduino Starter Pack. This experience was incredibly fun and educational, marking the start of my hardware adventure.
 
 ## Progress Table
 
-|Day|Date|Desc.|
-|---|---|---|
-|`Day 01`|`Jul 1, 2024`|Learnt about the basic tools that come along with the Arduino starter kit and also watched a video lecture on electrostatics|
-|`Day 02`|`Jul 2, 2024`|Learnt about some more basics regarding creating a circuit and also built the temperature sensor project|
-|`Day 03`|`Jul 3, 2024`|Built another project with photransistors and RGB LED|
-|`Day 04`|`Jul 7, 2024`|Started an Arduino course on youtube and also learnt how diodes work|
-|`Day 05`|`Jul 8, 2024`|Continued the Arduino course on youtube and learnt about using a potentiometer|
-|`Day 06`|`Jul 9, 2024`|Created the light theremin project and learn some more theory about phototransistors and piezos|
-|`Day 07`|`Jul 14, 2024`|Created my first servo motor project, another piezo project and also learnt how to work with GPIO pins on a raspberry PI|
-|`Day 08`|`Jul 18, 2024`|Created a digital hourglass using a tilt sensor|
-|`Day 09`|`Jul 19, 2024`|Learn how to use a motor with an external battery and transistor|
-|`Day 10`|`Jul 20, 2024`||
+| Day      | Date           | Desc.                                                                                                                        |
+| -------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| `Day 01` | `Jul 1, 2024`  | Learnt about the basic tools that come along with the Arduino starter kit and also watched a video lecture on electrostatics |
+| `Day 02` | `Jul 2, 2024`  | Learnt about some more basics regarding creating a circuit and also built the temperature sensor project                     |
+| `Day 03` | `Jul 3, 2024`  | Built another project with photransistors and RGB LED                                                                        |
+| `Day 04` | `Jul 7, 2024`  | Started an Arduino course on youtube and also learnt how diodes work                                                         |
+| `Day 05` | `Jul 8, 2024`  | Continued the Arduino course on youtube and learnt about using a potentiometer                                               |
+| `Day 06` | `Jul 9, 2024`  | Created the light theremin project and learn some more theory about phototransistors and piezos                              |
+| `Day 07` | `Jul 14, 2024` | Created my first servo motor project, another piezo project and also learnt how to work with GPIO pins on a raspberry PI     |
+| `Day 08` | `Jul 18, 2024` | Created a digital hourglass using a tilt sensor                                                                              |
+| `Day 09` | `Jul 19, 2024` | Learn how to use a motor with an external battery and transistor                                                             |
+| `Day 10` | `Jul 20, 2024` |                                                                                                                              |
 
 ## Resources
 
