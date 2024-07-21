@@ -29,8 +29,6 @@ Every project folder contains two files: one with the code for the project and a
 | `Day 09` | `Jul 19, 2024` | Learned how to use a motor with an external battery and transistor.                                                                                                                                                                                                                             |
 | `Day 10` | `Jul 20, 2024` | Finished five projects: direction and speed-changing motor, crystal ball, capacitive sensor, locking mechanism, and serial communication. Also revised all the concepts I had learned up until this point. This day marked the end of the 10-day challenge and the Arduino basic projects book. |
 
-|
-
 ## Additional Resources Used
 
 - [Arduino Masterclass](https://www.youtube.com/watch?v=BLrHTHUjPuw)
