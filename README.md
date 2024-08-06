@@ -1,6 +1,6 @@
 # 10 Days of Arduino
 
-This is a collection of everything I learned when I started using Arduino and exploring its capabilities. I embarked on a 10-day challenge to learn something Arduino-related each day. The main goal was to complete all the projects in the Arduino Projects Book that came with the Arduino Starter Pack.
+A collection of everything I learned when I started using Arduino and exploring its capabilities. I embarked on a 10-day challenge to learn something Arduino-related each day. The main goal was to complete all the projects in the Arduino Projects Book that came with the Arduino Starter Pack.
 
 <div align="center">
 	<img src="./assets/book.JPG">
